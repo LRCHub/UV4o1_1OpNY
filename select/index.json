@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "エス",
+  "base_artist": "内緒のピアス",
+  "createdAt": "2026-02-25T15:53:36.860241Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "エス",
+      "artist": "内緒のピアス",
+      "has_synced": false,
+      "path": "select/pl_01_エス_内緒のピアス.txt"
+    }
+  ]
+}
